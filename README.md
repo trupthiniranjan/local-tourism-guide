@@ -154,8 +154,6 @@ node index.js
 
 **Trupthi Niranjan**
 
-Computer Science & Engineering Student
+Information Science & Engineering Student
 
-## 📄 License
 
-This project is developed for educational and learning purposes.
